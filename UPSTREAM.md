@@ -4,4 +4,4 @@
 
 上游目录：`.agents/skills/reverse-engineer-anything`
 
-最近一次内容同步的来源提交：`ec107022fac43708dd6b74c25e3d450653a50963`
+最近一次内容同步的来源提交：`e18594b24754ab95ebd119311cc32a1d1ad6fa13`
